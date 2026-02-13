@@ -1,5 +1,7 @@
-https://raw.githubusercontent.com/demondevx/assets/main/honeypotworking.png
-https://raw.githubusercontent.com/demondevx/assets/main/register.png
-https://raw.githubusercontent.com/demondevx/assets/main/elevate.png
-https://raw.githubusercontent.com/demondevx/assets/main/honeypot%20logs.png
-https://raw.githubusercontent.com/demondevx/assets/main/honeypot.png
+## Honeypot Dashboard
+
+![Honeypot](https://github.com/demondevx/assets/blob/main/honeypot.png?raw=true)
+
+## Honeypot Logs
+
+![Logs](https://github.com/demondevx/assets/blob/main/honeypot%20logs.png?raw=true)
