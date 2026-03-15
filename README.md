@@ -26,6 +26,9 @@
 ## Honeypot Channel
 
 ![honeypotchannel](https://raw.githubusercontent.com/demondevx/assets/main/honeypotworking.png?raw=true)
-
+---
 
 https://github.com/demondevx/assets/blob/main/register.png?raw=true
+
+## Chamber
+![Chamber](https://raw.githubusercontent.com/demondevx/assets/main/chamber.png)
